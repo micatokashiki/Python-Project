@@ -9,5 +9,5 @@ Trabajo realizado:
 - Importación de datos
 - EDA
 - Pre-Procesamiento de datos
-- Aplicación de modelos de aprendizaje supervisado
+- Aplicación de modelos de aprendizaje supervisado (clasificación multiclase) sobre un dataset desbalanceado
 
