@@ -6,8 +6,7 @@ Este repositorio contiene el script correspondiente al EDA y ML en base al datas
 El mismo forma parte de la presentación final para la materia electiva Ciencia de Datos de la carrera de Ingeniería Industrial. También se incluye el póster de presentación e informe con la metodología de realización, resultados obtenidos y conclusiones.
 
 Trabajo realizado:
-- Importación de datos
 - EDA
 - Pre-Procesamiento de datos
-- Aplicación de modelos de aprendizaje supervisado (clasificación multiclase) sobre un dataset desbalanceado
+- Aplicación de modelos de machine learning (aprendizaje supervisado y clasificación multiclase) sobre un dataset desbalanceado
 
